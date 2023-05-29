@@ -1,0 +1,8 @@
+0 Calamondin
+1 Clementine
+2 Dalandan
+3 Dayap
+4 Lemon
+5 Orange
+6 Pomelo
+7 Tangerine
